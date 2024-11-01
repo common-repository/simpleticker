@@ -1,0 +1,7 @@
+.SimpleTicker { 
+    height: 25px;
+    border:solid 1px #0070C0;
+    background:#EFEFEF;
+    padding:5px;
+    overflow:hidden;
+}
